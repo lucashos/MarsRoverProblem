@@ -1,0 +1,6 @@
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\bin\Debug\Mars Rovers.exe.config
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\bin\Debug\Mars Rovers.exe
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\bin\Debug\Mars Rovers.pdb
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\obj\Debug\Mars Rovers.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\obj\Debug\Mars Rovers.exe
+C:\Users\Lucas\Desktop\Mars Rovers\Mars Rovers\obj\Debug\Mars Rovers.pdb
